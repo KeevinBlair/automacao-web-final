@@ -2,8 +2,8 @@
 const autenticacao = require('../modules/usuario/autenticacao');
 const registro = require('../modules/usuario/registro');
 
-describe('Caso de Teste 1 - Registrar usuário', () => {
-  it('deve cadastrar e excluir uma conta com sucesso', () => {
+describe('Testes de registro de usuário', () => {
+  it('Caso 1 - Deve cadastrar e excluir uma conta com sucesso', () => {
     cy.fixture('dados-teste').then((dados) => {
       const usuario = dados.usuario;
 

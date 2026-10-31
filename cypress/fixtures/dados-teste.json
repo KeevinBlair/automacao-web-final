@@ -1,0 +1,27 @@
+
+{
+  "usuario": {
+    "nome": "Usuario Teste",
+    "email": "usuario.teste.automacao.2026@example.com",
+    "senha": "Teste@2026",
+    "primeiroNome": "Usuario",
+    "ultimoNome": "Teste",
+    "empresa": "Empresa Teste",
+    "endereco": "Rua de Teste",
+    "pais": "Canada",
+    "estado": "Ontario",
+    "cidade": "Toronto",
+    "cep": "12345",
+    "telefone": "11999999999"
+  },
+  "produto": {
+    "nome": "Blue Top"
+  },
+  "pagamento": {
+  "nomeCartao": "Usuario Teste",
+  "numeroCartao": "1234567890123456",
+  "cvc": "123",
+  "mes": "12",
+  "ano": "2028"
+}
+}
